@@ -1,0 +1,4 @@
+send_loss_pct,requests,failures,average_latency_ms,p95_latency_ms
+0,82,0,2877.1,6500
+5,40,0,6124.17,8700
+10,35,0,7387.85,11000
